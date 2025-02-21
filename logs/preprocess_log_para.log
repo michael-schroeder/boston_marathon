@@ -1,0 +1,43 @@
+WARNING:pypdf._reader:Ignoring wrong pointing object 8 0 (offset 0)
+WARNING:pypdf._reader:Ignoring wrong pointing object 10 0 (offset 0)
+WARNING:pypdf.generic._data_structures:PdfReadError("Invalid Elementary Object starting with b'e' @1074815: b'\\x04\\x83\\x1b}\\xcd\\x1d\\x0e\\xff\\x03\\xe7:\\xd8\\xa9\\nendstream\\nendobj\\n631 0 obj\\n6629\\nendobj\\n629 0 obj\\n<< /Type /Page /P'")
+WARNING:pypdf.generic._data_structures:PdfReadError("Invalid Elementary Object starting with b'\\n' @1642190: b'\\xe8tG\\xed\\xff\\x03]\\x9f\\x0bB\\nendstream\\nendobj\\n969 0 obj\\n6488\\nendobj\\n967 0 obj\\n<< /Type /Page /Pare'")
+WARNING:pypdf.generic._data_structures:PdfReadError('Expecting a NameObject for key but found 1250')
+WARNING:pypdf.generic._data_structures:PdfReadError("Invalid Elementary Object starting with b'o' @3992842: b'tream\\nendobj\\n2364 0 obj\\n6632\\nendobj\\n2362 0 obj\\n<< /Type /Page /Parent 2358 0 R /'")
+WARNING:pypdf._reader:Object ID 3021,0 ref repaired
+WARNING:pypdf.generic._data_structures:PdfReadError("Invalid Elementary Object starting with b'o' @6585220: b'tream\\nendobj\\n3894 0 obj\\n6627\\nendobj\\n3892 0 obj\\n<< /Type /Page /Parent 3876 0 R /'")
+WARNING:pypdf.generic._data_structures:PdfReadError('Error reading indirect object reference at byte 0x756152')
+WARNING:pypdf.generic._data_structures:PdfReadError('Error reading indirect object reference at byte 0x7b2937')
+WARNING:pypdf.generic._data_structures:PdfReadError("Invalid Elementary Object starting with b'e' @9170896: b'T\\xa4\\xd2/\\x06G\\x16\\xfe\\x07\\xd1\\x99\\t\\x95\\nendstream\\nendobj\\n5424 0 obj\\n6825\\nendobj\\n5422 0 obj\\n<< /Type /Page '")
+WARNING:pypdf.generic._data_structures:PdfReadError("Invalid Elementary Object starting with b'o' @10404410: b'tream\\nendobj\\n6171 0 obj\\n6270\\nendobj\\n6169 0 obj\\n<< /Type /Page /Parent 6153 0 R /'")
+WARNING:pypdf.generic._data_structures:PdfReadError('Expecting a NameObject for key but found 7074')
+WARNING:pypdf._reader:Object ID 7447,0 ref repaired
+WARNING:pypdf.generic._data_structures:PdfReadError("Invalid Elementary Object starting with b'\\n' @16067142: b'\\xc5\\x8cE:\\xfe?$\\xda\\x9f\\x1f\\nendstream\\nendobj\\n9648 0 obj\\n6356\\nendobj\\n9646 0 obj\\n<< /Type /Page /Pa'")
+WARNING:pypdf.generic._data_structures:PdfReadError('Expecting a NameObject for key but found 9653')
+WARNING:pypdf.generic._data_structures:PdfReadError('Expecting a NameObject for key but found 0')
+WARNING:pypdf.generic._data_structures:PdfReadError("Dictionary read error at byte 0xf781e0: stream must begin with '<<'")
+WARNING:pypdf.generic._data_structures:PdfReadError('Error reading indirect object reference at byte 0xfcf8bc')
+WARNING:pypdf.generic._data_structures:PdfReadError('Expecting a NameObject for key but found 10065')
+WARNING:pypdf.generic._data_structures:PdfReadError('Expecting a NameObject for key but found 10094')
+WARNING:pypdf.generic._data_structures:PdfReadError('Could not read array')
+WARNING:pypdf.generic._data_structures:PdfReadError('Expecting a NameObject for key but found 10667')
+WARNING:pypdf.generic._data_structures:PdfReadError('Expecting a NameObject for key but found 10680')
+WARNING:pypdf._reader:Object ID 10850,0 ref repaired
+WARNING:pypdf._reader:Object ID 10870,0 ref repaired
+WARNING:pypdf.generic._data_structures:PdfReadError("Invalid Elementary Object starting with b'\\xd1' @19017391: b'\\x19\\xc7\\x00\\xd5\\xd1\\x07\\x83C2!1$\\x80\\xc6\\xe7\\x94\\x99\\xff\\x0f\\xa6\\xd1ke\\nendstream\\nendobj\\n11451 0 obj\\n6270\\nendobj\\n11449 0 obj\\n<< '")
+WARNING:pypdf.generic._data_structures:PdfReadError("Invalid Elementary Object starting with b'\\n' @19891202: b'W\\x0f\\x08\\xe8\\xff\\x00$S\\x8a\\x08\\nendstream\\nendobj\\n11987 0 obj\\n6385\\nendobj\\n11985 0 obj\\n<< /Type /Page /'")
+WARNING:pypdf.generic._data_structures:PdfReadError('Expecting a NameObject for key but found 12041')
+WARNING:pypdf.generic._data_structures:PdfReadError('Error reading indirect object reference at byte 0x1329470')
+WARNING:pypdf.generic._data_structures:PdfReadError("Invalid Elementary Object starting with b'\\xab' @21558174: b'\\xad\\x0c\\x06_\\x81\\x05\\xd2C\\xbd\\xea\\x8a\\xd4\\xfcZ\\xdd\\x10R\\xff\\x02\\xb0\\xab\\xee\\xd0\\nendstream\\nendobj\\n13006 0 obj\\n6483\\nendobj\\n13004 0 obj\\n<< '")
+WARNING:pypdf.generic._data_structures:PdfReadError('Expecting a NameObject for key but found 13390')
+WARNING:pypdf.generic._data_structures:PdfReadError("Invalid Elementary Object starting with b'm' @23852940: b'r8U>\\xe8\\xf8\\x1f\\xd5\\xe4BF\\nendstream\\nendobj\\n14433 0 obj\\n6140\\nendobj\\n14431 0 obj\\n<< /Type /Page '")
+WARNING:pypdf.generic._data_structures:PdfReadError('Expecting a NameObject for key but found 14450')
+WARNING:pypdf.generic._data_structures:PdfReadError('Expecting a NameObject for key but found 0')
+WARNING:pypdf.generic._data_structures:PdfReadError("Invalid Elementary Object starting with b'\\n' @24887530: b'<< /TT4 11 0 R\\n>> >>\\nendobj\\n15080 0 obj\\n<< /Length 15081 0 R /Filter /FlateDecod'")
+WARNING:pypdf.generic._data_structures:PdfReadError("Invalid Elementary Object starting with b'o' @25269115: b'ream\\nendobj\\n15329 0 obj\\n6351\\nendobj\\n15326 0 obj\\n<< /Type /Page /Parent 15327 0 R'")
+WARNING:pypdf.generic._data_structures:PdfReadError("Dictionary read error at byte 0x183be70: stream must begin with '<<'")
+WARNING:pypdf._reader:Object ID 16571,0 ref repaired
+WARNING:pypdf.generic._data_structures:PdfReadError("Invalid Elementary Object starting with b'o' @27394299: b'ream\\nendobj\\n16636 0 obj\\n6589\\nendobj\\n16634 0 obj\\n<< /Type /Page /Parent 16614 0 R'")
+WARNING:pypdf.generic._base:NumberObject(b'') invalid; use 0 instead
+WARNING:pypdf._reader:Object ID 17130,0 ref repaired
+WARNING:pypdf.generic._data_structures:PdfReadError('Error reading indirect object reference at byte 0x1ba5f5e')

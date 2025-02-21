@@ -1,0 +1,464 @@
+YEAR,GENDER,TIME,FIRSTNAME,LASTNAME,RESIDENCE
+1897,M,2:55:10,John J,McDermott,New York
+1897,M,3:02:02,James J,Kiernan,New York
+1897,M,3:06:02,Edward P,Rhell,Massachusetts
+1897,M,3:11:37,Hamilton,Gray,New York
+1897,M,3:17:50,H D,Eggleston,New York
+1897,M,3:31:00,John,Mason,New York
+1897,M,3:41:25,W,Ryan,Massachusetts
+1897,M,4:06:12,Lawrence,Brignolia,Massachusetts
+1897,M,4:08:00,Harry,Franklin,Massachusetts
+1897,M,4:10:00,A T,Howe,Massachusetts
+1898,M,2:42:00,Ronald J,MacDonald,Canada
+1898,M,2:45:00,Hamilton,Gray,New York
+1898,M,2:48:02,Robert A,McLennon,Massachusetts
+1898,M,2:54:17,John J,McDermott,New York
+1898,M,2:55:49,Lawrence,Brignolia,Massachusetts
+1898,M,2:58:49,Eugene,Estoppey Jr,New York
+1898,M,3:08:55,D J,Grant,New York
+1898,M,3:09:30,D,Harrigan,Massachusetts
+1898,M,3:09:30,John,Mason,New York
+1898,M,3:16:20,J E,Enwright,New York
+1898,M,3:22:45,G W,Janson,New York
+1898,M,3:25:30,H D,Eggeleston,New York
+1898,M,3:25:30,T,O' Connor,New York
+1898,M,3:30:20,J H,Keely,New York
+1898,M,3:38:07,John,Layer,New York
+1899,M,2:54:38,Lawrence,Brignolia,Massachusetts
+1899,M,2:57:46,Richard,Grant,Massachusetts
+1899,M,3:02:01,B F,Sullivan,Massachusetts
+1899,M,3:02:29,John B,Maguire,Massachusetts
+1899,M,3:04:59,R F,Hallen,New York
+1899,M,3:18:34,Eugene,Estoppey Jr,New York
+1899,M,3:21:30,D J,Sullivan,Massachusetts
+1899,M,3:23:55,J O,Lynch,New York
+1899,M,3:30:12,J H,Kelley,New York
+1899,M,3:39:15,J E,Enwright,New York
+1899,M,3:44:45,D P,Harrigan,New York
+1900,M,2:39:44,John P,Caffrey,Canada
+1900,M,2:41:31,William,Sheering,Canada
+1900,M,2:49:08,Fred,Hughson,Canada
+1900,M,2:51:36,John B,Maguire,Massachusetts
+1900,M,2:55:07,James,Fay,Massachusetts
+1900,M,3:07:19,Thomas J,Hicks,Massachusetts
+1900,M,3:13:20,B F,Sullivan,Massachusetts
+1900,M,3:13:57,Richard,Grant,Massachusetts
+1900,M,N/A,D,Carroll,Canada
+1900,M,N/A,J J,Quigley,Massachusetts
+1900,M,N/A,P,Lorden,Massachusetts
+1900,M,N/A,F,Crowley,Massachusetts
+1900,M,N/A,H R,Osgood,Massachusetts
+1900,M,N/A,H H,Potter,Massachusetts
+1900,M,N/A,M M,Barligan,Massachusetts
+1900,M,N/A,W H,Cobb,Massachusetts
+1900,M,N/A,T J,Murphy,Massachusetts
+1900,M,N/A,F,Crowley,Massachusetts
+1900,M,N/A,Thomas,McQueeny,Massachusetts
+1900,M,N/A,F,Wilkins,New Hampshire
+1900,M,N/A,E G,Russell Jr,New York
+1900,M,N/A,Chester,Torrance,New York
+1900,M,N/A,E E,Mills,New York
+1900,M,N/A,J,McCarthy,N/A
+1900,M,N/A,K,Clifford,N/A
+1900,M,N/A,L,Flynn,N/A
+1901,M,2:39:44,John P,Caffrey,Canada
+1901,M,2:41:31,William,Davis,Canada
+1901,M,2:49:08,Samuel A,Mellor Jr,New York
+1901,M,2:51:36,C,Crimmins,Massachusetts
+1901,M,2:52:32,Thomas J,Hicks,Massachusetts
+1901,M,2:55:07,John C,Lorden,Massachusetts
+1901,M,2:55:40,P,Lorden,Massachusetts
+1901,M,2:56:44,James,McAuliffe,Massachusetts
+1901,M,3:02:20,E,Grusell Jr,New York
+1901,M,N/A,J J,Kennedy,Massachusetts
+1902,M,2:43:12,Samuel A,Mellor Jr,New York
+1902,M,2:45:21,J J,Kennedy,Massachusetts
+1902,M,2:54:49,John C,Lorden,Massachusetts
+1902,M,3:03:47,Charlie,Moody,Massachusetts
+1902,M,3:05:49,Carl D,Schlobohm,New York
+1902,M,3:07:14,Ernest,Poole,Massachusetts
+1902,M,3:09:15,E F,O' Brien Jr,Massachusetts
+1902,M,3:09:50,W H,Hunter,Connecticut
+1902,M,3:13:15,J,Flynn,Massachusetts
+1902,M,3:20:20,Arthur,Ziegler,New York
+1902,M,3:22:53,E L,LeMonier,Massachusetts
+1902,M,3:23:20,E,Estoppey Jr,New York
+1903,M,2:41:29,John C,Lorden,Massachusetts
+1903,M,2:47:13,Samuel A,Mellor Jr,New York
+1903,M,2:53:01,Michael,Spring,New York
+1903,M,2:53:42,Frederick,Lorz,New York
+1903,M,3:01:37,J J,Donovan,New York
+1903,M,3:01:53,Arthur,Ziegler,New York
+1903,M,3:04:50,Edward,Fay,Massachusetts
+1903,M,3:06:40,John S,Hunt,Massachusetts
+1903,M,3:08:14,John,Leadbetter,Massachusetts
+1903,M,3:10:47,John P,Coakley,Massachusetts
+1904,M,2:38:04,Michael,Spring,New York
+1904,M,2:39:34,Thomas J,Hicks,Massachusetts
+1904,M,2:42:35,Thomas F,Cook,Massachusetts
+1904,M,2:43:40,Carl D,Schlobohm,New York
+1904,M,2:44:00,Frederick,Lorz,New York
+1904,M,2:44:43,Samuel A,Mellor Jr,New York
+1904,M,2:46:30,J,Easley,Massachusetts
+1904,M,2:50:35,Dennis,Bennett,USA
+1904,M,2:52:45,F A,Perreault,Massachusetts
+1904,M,2:53:15,John S,Hunt,Massachusetts
+1905,M,2:38:25,Frederick,Lorz,New York
+1905,M,2:39:50,Louis,Marks,New York
+1905,M,2:41:07,Robert A,Fowler,Massachusetts
+1905,M,2:42:44,H F,Miller,Massachusetts
+1905,M,2:43:01,E S,Farnsworth,Massachusetts
+1905,M,2:48:32,David J,Kneeland,Massachusetts
+1905,M,2:52:47,Thomas J,Sullivan,Massachusetts
+1905,M,2:53:17,John J,Kennedy,Massachusetts
+1905,M,2:53:56,Martin J,OÕNeil,Massachusetts
+1905,M,2:54:51,John S,Hunt,Massachusetts
+1906,M,2:45:45,Timothy,Ford,Massachusetts
+1906,M,2:45:51,David J,Kneeland,Massachusetts
+1906,M,2:53:41,Thomas P,Morrissey,New York
+1906,M,2:53:56,P,Laffargue,New York
+1906,M,2:55:38,John J,Hayes,New York
+1906,M,2:56:55,Martin J,OÕNeil,Massachusetts
+1906,M,3:02:06,Thomas J,Sullivan,Massachusetts
+1906,M,3:02:06,Ben,Mann,New York
+1906,M,3:07:11,W R,Prouty,Massachusetts
+1906,M,3:08:11,Harry,Brawley,Massachusetts
+1906,M,3:08:12,James D,McCherry,New York
+1906,M,3:08:13,Bennett,Jacobs,Massachusetts
+1906,M,3:09:21,H,Goldberg,New York
+1907,M,2:24:24,Thomas,Longboat,Canada
+1907,M,2:27:54,Robert A,Fowler,Massachusetts
+1907,M,2:30:38,John J,Hayes,New York
+1907,M,2:35:37,James W,OÕMara,Massachusetts
+1907,M,2:36:04,James J,Lee,Massachusetts
+1907,M,2:36:47,Charles E,Petch,Canada
+1907,M,2:37:11,Sidney,Hatch,Illinois
+1907,M,2:37:59,John,Neary,Massachusetts
+1907,M,2:38:58,John,Lindquist,New York
+1907,M,2:42:02,Carl D,Schlobohm,New York
+1908,M,2:25:43,Thomas P,Morrissey,New York
+1908,M,2:26:04,John J,Hayes,New York
+1908,M,2:26:42,Robert A,Fowler,Massachusetts
+1908,M,2:27:08,Michael J,Ryan,New York
+1908,M,2:27:48,W,Wood,Massachusetts
+1908,M,2:28:34,James J,Lee,Massachusetts
+1908,M,2:32:20,Frederick,Lorz,New York
+1908,M,2:41:17,Samuel A,Mellor Jr,New York
+1908,M,2:43:25,A Roy,Welton,Massachusetts
+1908,M,2:43:54,John J,Goff,Massachusetts
+1909,M,2:53:36,Henri,Renaud,New Hampshire
+1909,M,2:57:13,Harry,Jensen,New York
+1909,M,2:57:17,Patrick J,Grant,New York
+1909,M,2:59:42,James F,Crowley,New York
+1909,M,3:00:53,Samuel A,Mellor Jr,New York
+1909,M,3:01:52,Joseph P,McHugh,Massachusetts
+1909,M,3:02:48,Edward G,Ryder,Massachusetts
+1909,M,3:06:10,Carl D,Schlobohm,New York
+1909,M,3:08:08,Edward L,McTiernan,Massachusetts
+1909,M,3:09:31,Robert A,Fowler,Massachusetts
+1909,M,3:10:50,Alfred G,Horne,Massachusetts
+1909,M,3:11:58,Robert A,Stone,Massachusetts
+1909,M,3:17:14,Frank E,Miller,Massachusetts
+1909,M,3:19:16,Elmer E,Lincoln,Massachusetts
+1909,M,3:19:27,Henry L,Holscher,Massachusetts
+1909,M,3:23:24,B J,Nelson,USA
+1909,M,3:25:33,James J,Lee,New York
+1909,M,3:26:15,W J,Fallon,Massachusetts
+1909,M,3:26:41,Albert H,Ellis,Massachusetts
+1909,M,3:27:01,W A,Phelan,Massachusetts
+1909,M,N/A,W J,Hall,Canada
+1909,M,N/A,Royde B,Cheney,Connecticut
+1909,M,N/A,Joseph,Fantony,Massachusetts
+1909,M,N/A,J F,McGonagle,Massachusetts
+1909,M,N/A,J C,Silva,Massachusetts
+1909,M,N/A,W A,Maguire,Massachusetts
+1909,M,N/A,George H,Kiley,Massachusetts
+1909,M,N/A,Eli,De Long,Massachusetts
+1909,M,N/A,Charles M,Bruorton,Massachusetts
+1909,M,N/A,Ernest C,Berrio,Massachusetts
+1909,M,N/A,John P,Keefe,New Hampshire
+1909,M,N/A,G M,Smith,New York
+1909,M,N/A,William,Rozette,New York
+1909,M,N/A,Charles,Alexander,New York
+1909,M,N/A,C A,Hard,New York
+1909,M,N/A,Edward,Horn,New York
+1910,M,2:17:54,Charles F,McCarthy,Massachusetts
+1910,M,2:19:45,George F,McInerny,Pennsylvania
+1910,M,2:28:52,Fred S,Cameron,USA
+1910,M,2:29:52,Clarence H,De Mar,Massachusetts
+1910,M,2:34:25,James J,Corkery,Canada
+1910,M,2:38:06,John R,Roe,Canada
+1910,M,2:38:24,Michael J,Ryan,New York
+1910,M,2:40:03,John J,Reynolds,New Jersey
+1910,M,2:40:25,R E,MacCormack,Canada
+1910,M,2:40:50,Edwin A,White,New York
+1910,M,2:41:34,E P,Devlin,New York
+1910,M,2:44:58,James,Cleary,Massachusetts
+1910,M,2:50:59,R F,Piggott,Massachusetts
+1910,M,2:51:55,James H,Maloney,Massachusetts
+1910,M,2:53:45,W,Wiseman,Massachusetts
+1910,M,2:54:48,Charles,Cook,USA
+1910,M,2:57:15,John G,Near,USA
+1910,M,2:57:31,J P,Brennan,Massachusetts
+1910,M,2:57:56,Gordon W,Wolfe,Massachusetts
+1910,M,2:58:57,Edw W,McTlernan,Massachusetts
+1910,M,3:01:11,W,Gibson,Massachusetts
+1910,M,3:01:57,M H,Ellis,Massachusetts
+1910,M,3:03:04,Alex,Russell,USA
+1910,M,3:03:24,Henri,Renaud,New Hampshire
+1910,M,3:03:56,Ernest,Peabody,Massachusetts
+1910,M,3:04:04,James W,Lawson,Massachusetts
+1910,M,3:04:20,Patrick,Grant,Massachusetts
+1910,M,3:04:41,Fred,McGlone,Massachusetts
+1910,M,3:04:43,Ralph,Raymond,Massachusetts
+1910,M,3:05:02,Ed,Horn,New York
+1910,M,3:05:29,George,De Cleco,Massachusetts
+1910,M,3:06:09,Charles,Connors,Massachusetts
+1910,M,3:06:53,James W,O' Marn,Massachusetts
+1910,M,3:08:42,S A,Mellor Jr,New York
+1910,M,3:08:55,J B,Webster,Massachusetts
+1910,M,3:09:33,Gust,Vass,Pennsylvania
+1910,M,3:09:35,Arthur,Condreault,Massachusetts
+1910,M,3:11:01,Fred L,Novak,Massachusetts
+1910,M,3:12:13,W,Cunningham,Pennsylvania
+1910,M,3:13:00,Ernest,Boscomber,Massachusetts
+1911,M,2:21:39,Clarence H,De Mar,Massachusetts
+1911,M,2:24:31,Festus,Madden,Massachusetts
+1911,M,2:29:22,Edouard,Fabre,Canada
+1911,M,2:29:31,Robert A,Fowler,Massachusetts
+1911,M,2:30:45,Richard F,Piggott,Massachusetts
+1911,M,2:31:44,Daniel,Sheridan,Vermont
+1911,M,2:32:31,Albert,Harrop,Massachusetts
+1911,M,2:33:10,William,Galvin,New York
+1911,M,2:36:15,Michael J,Ryan,New York
+1911,M,2:36:33,Joseph M,Lordan,Massachusetts
+1911,M,2:37:07,James,Cleary,Massachusetts
+1911,M,2:38:46,Anastas K,Sturgis,Massachusetts
+1911,M,2:38:56,E W L,McTernan,Massachusetts
+1911,M,2:42:00,Clifton,Horne,Massachusetts
+1911,M,2:42:15,Charles F,McCarthy,Massachusetts
+1911,M,2:42:41,Charles H,Appleyard,New York
+1911,M,2:43:45,Andrew,Sockalexis,Maine
+1911,M,2:44:00,Albert H,Ellis,Massachusetts
+1911,M,2:45:21,George,Gaskill,Massachusetts
+1911,M,2:45:47,Stanley U,Root,Pennsylvania
+1911,M,2:45:48,Hugh F,Maguire,Rhode Island
+1911,M,2:46:14,John J,Monoghan,Massachusetts
+1911,M,2:46:48,William J,Fallon,Massachusetts
+1911,M,2:48:43,Tom,Patton,Canada
+1911,M,2:49:29,Charles,Timmins,New York
+1911,M,N/A,Michael,Thomas,Canada
+1911,M,N/A,Gordon,Wolfe,Canada
+1911,M,N/A,Alfred,Rodgers,Canada
+1911,M,N/A,Oswald,Sparson,Maine
+1911,M,N/A,James M,Lawson,Massachusetts
+1911,M,N/A,Alex,Duncan,Massachusetts
+1911,M,N/A,Joseph,Donato,Massachusetts
+1911,M,N/A,Earnest,Peabody,Massachusetts
+1911,M,N/A,Ernest,Bascombe,Massachusetts
+1911,M,N/A,A,Monteverde,New York
+1911,M,N/A,Nicholas,Granacopalis,New York
+1911,M,N/A,Harry,Jenson,New York
+1912,M,2:21:18,Michael J,Ryan,New York
+1912,M,2:21:52,Andrew,Sockalexis,Maine
+1912,M,2:23:24,Festus,Madden,Massachusetts
+1912,M,2:23:50,Thomas H,Lilley,Massachusetts
+1912,M,2:25:50,Harry,Jensen,New York
+1912,M,2:26:07,Richard F,Piggott,Massachusetts
+1912,M,2:26:07,Fritz,Carlson,Minnesota
+1912,M,2:26:23,Edouard,Fabre,Canada
+1912,M,2:26:50,William,Galvin,New York
+1912,M,2:27:46,Harry,Smith,New York
+1912,M,2:27:59,Anastas K,Sturgis,Massachusetts
+1912,M,2:28:47,Stanley W,Root,Pennsylvania
+1912,M,2:28:55,William,Rozett,New York
+1912,M,2:30:20,Sidney,Hatch,Illinois
+1912,M,2:31:46,Andrew,Hermequatewa,Massachusetts
+1912,M,2:32:34,Joseph G,Silva,Massachusetts
+1912,M,2:32:58,J J,Monoghan,Massachusetts
+1912,M,2:33:16,W J,Fallon,Massachusetts
+1912,M,2:33:34,George,Gaskill,Massachusetts
+1912,M,2:34:11,John J,Stack,New York
+1912,M,2:34:23,H L,McCormick,Rhode Island
+1912,M,2:34:31,W J,Hackett,Massachusetts
+1912,M,2:34:31,W J,Kennedy,Missouri
+1912,M,2:35:13,Ernest,Peabody,Massachusetts
+1912,M,2:35:18,Peter A,Corriveau,Massachusetts
+1912,M,N/A,James,Cleary,Massachusetts
+1912,M,N/A,Robert A,Fowler,Massachusetts
+1912,M,N/A,Israel,Saklad,Massachusetts
+1912,M,N/A,Albert,Harrop,Massachusetts
+1912,M,N/A,Edgar,Graham,Massachusetts
+1912,M,N/A,Charles T,McCarthy,Massachusetts
+1912,M,N/A,Alfred G,Horne,Massachusetts
+1912,M,N/A,E W L,McTiernan,Massachusetts
+1912,M,N/A,Joe,Forshaw,Missouri
+1912,M,N/A,Frank,Raggeiero,New York
+1912,M,N/A,Spirito,Colombo,New York
+1912,M,N/A,Charles A,Timmins,New York
+1912,M,N/A,Frank,Hanley,New York
+1912,M,N/A,Nicholas,Granocopolis,New York
+1912,M,N/A,John,Weiss,Pennsylvania
+1912,M,N/A,John L,Snyder,Pennsylvania
+1912,M,N/A,William,Jones,N/A
+1912,M,N/A,Clovis,Bourdelais,Vermont
+1913,M,2:25:14,Fritz,Carlson,Minnesota
+1913,M,2:27:12,Andrew,Sockalexis,Maine
+1913,M,2:28:23,Harry,Smith,New York
+1913,M,2:31:51,George F,McInerney,Pennsylvania
+1913,M,2:32:18,Edouard,Fabre,Canada
+1913,M,2:32:38,John,Stack,New York
+1913,M,2:33:04,Joseph M,Lorden,Massachusetts
+1913,M,2:33:46,William D,Brown,Massachusetts
+1913,M,2:34:00,George,Gaskill,Massachusetts
+1913,M,2:35:42,Anastas K,Sturgis,Massachusetts
+1913,M,2:36:09,Thomas,Dwyer,New York
+1913,M,2:36:13,Samuel C,Pavitt,Massachusetts
+1913,M,2:41:00,Harry F,Jensen,New York
+1913,M,2:42:48,John,Weiss,Pennsylvania
+1913,M,2:44:05,George,Crosby,New York
+1913,M,2:45:07,Charles R,Lucas,Massachusetts
+1913,M,2:46:01,John C,Karlsen,Minnesota
+1913,M,2:47:10,J J,Monaghan,Massachusetts
+1913,M,2:49:22,Thomas H,Lilley,Massachusetts
+1913,M,2:50:20,William J,Fallon,Massachusetts
+1913,M,2:51:58,Joseph,Marino,Massachusetts
+1913,M,2:52:14,A G,Horne,Massachusetts
+1913,M,2:53:22,J J,Callan,Massachusetts
+1913,M,2:55:07,Fred M,Heller,New York
+1913,M,2:55:26,Victor,Wirtanen,Massachusetts
+1913,M,2:56:15,Clarence,Lamondy,Connecticut
+1913,M,2:58:00,William H,Allan,Canada
+1913,M,2:59:41,H J,Monaghan,Massachusetts
+1913,M,3:01:10,H A,Garvan,Pennsylvania
+1913,M,3:02:28,Joseph H,Christon,Massachusetts
+1913,M,3:04:31,A,Monteverde,New York
+1913,M,3:06:28,Batty,O' Byrne,New York
+1913,M,3:17:34,Alex,Ostrand,Massachusetts
+1913,M,3:21:13,Martin,Silver,Massachusetts
+1913,M,3:25:38,Edward,Devlin,Massachusetts
+1914,M,2:25:01,James,Duffy,Canada
+1914,M,2:25:16,Edouard,Fabre,Canada
+1914,M,2:28:42,Joseph M,Lorden,Massachusetts
+1914,M,2:30:37,Walter,Bell,Canada
+1914,M,2:31:08,Arthur V,Roth,Massachusetts
+1914,M,2:34:38,Willie,Kyronen,New York
+1914,M,2:35:56,George F,McInerney,Pennsylvania
+1914,M,2:37:19,Fritz,Carlson,Minnesota
+1914,M,2:38:53,Thomas H,Lilley,Massachusetts
+1914,M,2:38:57,Festus,Madden,Massachusetts
+1914,M,2:41:17,Hugh,Monahan,New York
+1914,M,2:42:55,John,Anthony,New York
+1914,M,2:44:58,John,Weiss,Pennsylvania
+1914,M,2:45:58,Charles,De Stefano,New York
+1914,M,2:46:28,A B,Hollis,Massachusetts
+1914,M,2:48:50,C L,Carr,Massachusetts
+1914,M,2:50:11,William,Brown,Massachusetts
+1914,M,2:52:31,W F,Lodergan,Massachusetts
+1914,M,2:53:42,William F,Fallon,Massachusetts
+1914,M,2:53:59,Jacob,Maier,New York
+1914,M,2:54:28,Humphrey J,Monahan,Massachusetts
+1914,M,2:54:45,Martin,Silver,Massachusetts
+1914,M,2:55:03,Robert,Mohrmann,Connecticut
+1914,M,2:55:30,Ernest,Peabody,Massachusetts
+1914,M,2:55:35,George,Crosby,New York
+1914,M,N/A,B C,Huber,California
+1914,M,N/A,Israel,Saklad,Massachusetts
+1914,M,N/A,James,Cleary,Massachusetts
+1914,M,N/A,Arthur E,McGlone,Massachusetts
+1914,M,N/A,Alex,Russell,Massachusetts
+1914,M,N/A,H T,McCarthy,Massachusetts
+1914,M,N/A,A F,Merchant,Massachusetts
+1914,M,N/A,David L,Stuart,Massachusetts
+1914,M,N/A,J F,Mahoney,Massachusetts
+1914,M,N/A,S E,Hill,Massachusetts
+1914,M,N/A,A L,Morrill,Massachusetts
+1914,M,N/A,Anastas K,Sturgis,Massachusetts
+1915,M,2:31:41,Edouard,Fabre,Canada
+1915,M,2:33:01,Clifton G,Horne,Massachusetts
+1915,M,2:35:47,Sidney H,Hatch,Illinois
+1915,M,2:37:02,Hugh,Honohan,New York
+1915,M,2:37:15,Edward L,Byrne,New York
+1915,M,2:38:14,George F,McInerney,Pennsylvania
+1915,M,2:45:16,Percy,Wyer,New York
+1915,M,2:46:58,Fred,Travalena,New York
+1915,M,2:50:02,John M,Mullen,New York
+1915,M,2:51:36,Alfred G,Horne,Massachusetts
+1915,M,2:55:00,A F,Merchant,Massachusetts
+1915,M,2:56:04,John,Costello,New York
+1915,M,2:56:28,Harry A,Garvin,Pennsylvania
+1915,M,2:58:30,Walter J,Bell,Canada
+1915,M,3:01:24,Bill,Kennedy,Illinois
+1915,M,3:02:10,John,Pasanen,Massachusetts
+1915,M,3:03:13,John J,Cullen,New York
+1915,M,3:04:05,Henry,Holden,Massachusetts
+1915,M,3:05:35,Michael J,Palma,Massachusetts
+1915,M,3:08:52,George C,Harback,Massachusetts
+1915,M,3:09:05,Robert,Mohrmann,Connecticut
+1915,M,3:09:50,M J,Lynch,Districtof Columbia
+1915,M,3:11:30,Ernest,Peabody,Massachusetts
+1915,M,3:12:38,Michael,Collins,New York
+1915,M,3:14:20,Arthur,Garber,Massachusetts
+1915,M,3:16:56,Gragg,Richards,New York
+1915,M,3:18:47,John,Weiss,Pennsylvania
+1915,M,3:19:51,Edmond,Martineau,Canada
+1915,M,3:20:23,Cecil L V,Phillips,Canada
+1915,M,3:21:40,David L,Stuart,Massachusetts
+1915,M,3:28:12,George,De Cicco,Massachusetts
+1915,M,3:38:51,Joseph J,McKeaney,Pennsylvania
+1915,M,3:45:36,Martin,Silver,Massachusetts
+1915,M,3:45:58,H J,Dennihan,Massachusetts
+1916,M,2:27:16,Arthur V,Roth,Massachusetts
+1916,M,2:27:27,Willie,Kyronen,New York
+1916,M,2:28:30,Sidney H,Hatch,Illinois
+1916,M,2:30:34,James J,Corkery,Canada
+1916,M,2:34:18,William,Brown,Massachusetts
+1916,M,2:35:17,William J(Bill),Kennedy,Illinois
+1916,M,2:39:39,John P,Phillips,New York
+1916,M,2:41:09,Arthur Lee,Jamieson,Canada
+1916,M,2:41:22,Michael J,Lynch,Districtof Columbia
+1916,M,2:43:39,George B,Moss,New York
+1916,M,2:45:24,Leroy A,Davis,Massachusetts
+1916,M,2:45:41,Hans C,Scheuster,New York
+1916,M,2:51:16,Fred,Travalena,New York
+1916,M,2:53:09,John J,Mullen,Massachusetts
+1916,M,2:53:34,George,Kirkwood,New York
+1916,M,2:54:02,Oscar,Janson,New York
+1916,M,2:56:29,Carl W,Linder,Massachusetts
+1916,M,2:57:06,James A,McCurnin,New Jersey
+1916,M,2:59:04,Ralph,Vikstrom,New York
+1916,M,2:59:18,Robert,Mohrmann,Maine
+1916,M,3:01:04,A,Monteverde,New York
+1916,M,3:04:44,Robert,Themea,Massachusetts
+1916,M,3:07:00,Charles,Erikson,New York
+1916,M,3:10:24,Antonois,Angelopoulos,Canada
+1916,M,3:15:00,Herbert J,Johnson,New York
+1916,M,N/A,Eddie,Lyons,Massachusetts
+1916,M,N/A,Karl G,Jepson,Massachusetts
+1916,M,N/A,A,Couture,Massachusetts
+1916,M,N/A,Sameul S,Pavitt,Massachusetts
+1916,M,N/A,Albert H,Ellis,Massachusetts
+1916,M,N/A,William E,Leiteritz,Massachusetts
+1916,M,N/A,John H,Brady,Massachusetts
+1916,M,N/A,Thomas M,O' Neill,Massachusetts
+1917,M,2:28:37,William J,Kennedy,New York
+1917,M,2:30:19,Sidney H,Hatch,Illinois
+1917,M,2:31:05,Clarence H,De Mar,Massachusetts
+1917,M,2:31:58,Hannes,Kolehmainen,New York
+1917,M,2:36:20,A F,Merchant,Massachusetts
+1917,M,2:36:24,Charles G,Mellor,Illinois
+1917,M,2:37:28,Hans,Schuster,New York
+1917,M,2:38:38,Carl W A,Linder,Massachusetts
+1917,M,2:40:06,Michael J,Lynch,Districtof Columbia
+1917,M,2:44:28,Leroy,Davis,Massachusetts
+1917,M,2:44:28,Prescot M,Dean,New York
+1917,M,2:45:29,A V,Roth,Massachusetts
+1917,M,2:49:23,J M,Mullen,Massachusetts
+1917,M,2:51:11,W D,Brown,Massachusetts
+1917,M,2:52:59,G,Costarakis,Massachusetts
+1917,M,2:53:32,C A,Leventhal,New York
+1917,M,2:56:06,G B,Moss,New York
+1917,M,2:56:47,G,Richards,New York
+1917,M,3:00:58,H,Kanto,New Hampshire
+1917,M,3:03:40,H,Spies,New York
+1917,M,N/A,A,Angelopoulos,Canada
